@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "desc": "krembo",
+      "price": 2
+    },
+    {
+      "id": 3,
+      "desc": "jahnoon",
+      "price": 10
+    },
+    {
+      "id": 4,
+      "desc": "pizza",
+      "price": 9
+    },
+    {
+      "desc": "bisly",
+      "price": 8,
+      "id": 5
+    },
+    {
+      "desc": "bamba",
+      "price": 7,
+      "id": 6
+    }
+  ]
+}
